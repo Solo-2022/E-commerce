@@ -1,6 +1,6 @@
 E-commerece Website 
 
-Fully functional E-commerece website
+Fully functional E-commerece website.
 The site allows:
 
     Guest checkout ability along with user accounts
